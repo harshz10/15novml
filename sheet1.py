@@ -22,7 +22,8 @@ print(((True==False) or (False>True)) and (False<=True))  # False
 #3
 s1="Nice to have it"
 s2="here"
-print(s1+' '+s2)
+s=s1+" "+s2
+print(s)
 
 #4
 a = [1,2,[3,4],[5,[100,200,['hello']],23,11],1,7]
