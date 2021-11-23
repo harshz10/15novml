@@ -13,7 +13,7 @@ print(True and False)		 		  	  # False
 print(((6>3) and (7<4) or (18==3)) and (9>3))		  # False
 print(True is False)					  # False
 #print(False in 'False')				  # Traceback (most recent call last):
-                                                          #   File "C:/Users/ANUJA/Desktop/day6.py", line 13, in <module>
+                                                          #   File "C:/Users/HZ/Desktop/day6.py", line 13, in <module>
                                                           #  	print(False in 'False')
                                                           # TypeError: 'in <string>' requires string as left operand, not bool
 
